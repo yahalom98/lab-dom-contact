@@ -33,37 +33,6 @@
 
 <br>
 
-
-
-## Getting Started
-
-- Fork this repo
-
-- Clone this repo
-
-- Open the LAB and start:
-
-  ```bash
-  cd lab-dom-ironcontacts
-  code .
-  ```
-
-
-## Submission
-
-- Upon completion, run the following commands:
-
-  ```bash
-  git add .
-  git commit -m "done"
-  git push origin master
-  ```
-
-- Create a Pull Request and submit your assignment.
-
-
-<br>
-
 ## Instructions
 
 ### Iteration 0 | Example Row
